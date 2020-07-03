@@ -8,10 +8,10 @@
 		<version>2.3.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.formacionbdi.springboot.app.usuarios.commons</groupId>
-	<artifactId>springboot-servicio-usuarios-commons</artifactId>
+	<groupId>com.formacionbdi.springboot.app.commons.usuarios</groupId>
+	<artifactId>springboot-servicio-commons-usuarios</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-servicio-usuarios-commons</name>
+	<name>springboot-servicio-commons-usuarios</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
